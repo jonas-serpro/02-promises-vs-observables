@@ -30,7 +30,7 @@ Diferenças entre o uso de _Promises_ e _Observables_.
 
 <br><br>
 
-### 🔗 Links úteis
+## 🔗 Links úteis
 
 - [Promise - JavaScript | MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 - [RxJS](https://rxjs.dev/) - Website oficial da biblioteca RxJS (Observables)
