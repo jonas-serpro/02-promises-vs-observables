@@ -1,6 +1,6 @@
 # Promises vs Observables
 
-Exemplos que demonstram as diferenças entre o uso de _Promises_ e _Observables_.
+Diferenças entre o uso de _Promises_ e _Observables_.
 <br><br>
 
 ## 🎯 Objetivo
