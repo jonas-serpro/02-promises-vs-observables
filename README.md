@@ -1,28 +1,43 @@
 # Promises vs Observables
-Exemplos que demonstram as diferenças entre o uso de _Promises_ e _Observables_
 
-## Objetivo
+Exemplos que demonstram as diferenças entre o uso de _Promises_ e _Observables_.
+<br><br>
 
- - Demonstrar diferenças básicas entre Promises e Obsevables  
-  -  Observables são lazy (executam somente se tem inscrito(s))
-  -  Observables são canalizáveis
-  -  Observables são cancelaveis
+## 🎯 Objetivo
 
-## Vídeo
-Ainda não gravado
+- Demonstrar diferenças básicas entre Promises e Obsevables
+- Observables são lazy (executam somente se tem inscrito(s))
+- Observables são canalizáveis
+- Observables são cancelaveis
 
-## Código-fonte
-Ainda não criado
+<br><br>
 
-## Demonstração
-Ainda não criada
+## 🎞️ Vídeo
 
+- Ainda não gravado
 
-### Links úteis
+<br><br>
+
+## 🤓 Código-fonte
+
+- Ainda não criado
+
+<br><br>
+
+## ⏯️ Demonstração
+
+- Ainda não criada
+
+<br><br>
+
+### 🔗 Links úteis
+
 - [Promise - JavaScript | MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 - [RxJS](https://rxjs.dev/) - Website oficial da biblioteca RxJS (Observables)
 - [Learn RxJS website](https://www.learnrxjs.io/) - Explicações e exemplos de recursos da biblioteca RxJS (Observables)
 
+<br><br>
 
-## Referências utilizadas
+## 📖 Referências utilizadas
+
 - https://stackoverflow.com/a/37365955
