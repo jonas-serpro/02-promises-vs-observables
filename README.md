@@ -7,7 +7,7 @@ Exemplos que demonstram as diferenças entre o uso de _Promises_ e _Observables_
 
 - Demonstrar diferenças básicas entre Promises e Obsevables
 - Observables são lazy (executam somente se tem inscrito(s))
-- Observables são canalizáveis
+- Observables são canalizáveis e podem ser manipulados através de operadores
 - Observables são cancelaveis
 
 <br><br>
