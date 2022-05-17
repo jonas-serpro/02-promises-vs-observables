@@ -1,4 +1,6 @@
-# Promises vs Observables
+# Promises vs Observables 
+
+**TUTORIAL E VÍDEO ADIADOS PARA LANÇAMENTO FUTURO**
 
 Diferenças entre o uso de _Promises_ e _Observables_.
 <br><br>
